@@ -1,5 +1,6 @@
 node_modules/
-less/*
-!less/.gitkeep
+
+# Generated Files
+css/*.css
 images-final/*
 !images-final/.gitkeep
