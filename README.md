@@ -20,7 +20,9 @@ export PKG_CONFIG_PATH="/opt/X11/lib/pkgconfig:$PKG_CONFIG_PATH"
 npm install
 ```
 
-##### 5. Open `index.html` to view the results.
+##### 5. Run `grunt`.
+
+##### 6. Open `index.html` to view the results.
 
 # Details
 
