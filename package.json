@@ -1,0 +1,10 @@
+{
+  "name": "node-sprite-generate",
+  "version": "0.0.1",
+  "description": "",
+  "author": "",
+  "dependencies": {
+    "grunt": "^0.4.5",
+    "node-sprite-generator": "^0.6.0"
+  }
+}
